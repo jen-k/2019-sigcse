@@ -7,3 +7,4 @@
 * Managing student repositories
 * GitHub Classroom
 * Permissions
+* etc
